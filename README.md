@@ -1,5 +1,5 @@
-### deez
-- ⚡ fun fact **i suck pp**
+### hey
+![ ALt text](madswave.gif)
 
 <h3 align="left">socials:</h3>
 <p align="left">
