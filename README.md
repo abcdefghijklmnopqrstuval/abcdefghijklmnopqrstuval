@@ -1,7 +1,7 @@
 ### deez
 - ⚡ fun fact **i suck pp**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">socials:</h3>
 <p align="left">
 <a href="https://twitter.com/vacrtino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vacrtino" height="30" width="40" /></a>
 <a href="https://instagram.com/valentino.webm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="valentino.webm" height="30" width="40" /></a>
