@@ -1,6 +1,9 @@
 ### hey
 ![ ALt text](madswave.gif)
 
+##spotify now playing
+[<img src="https://spotify-np-val.vercel.app/api/spotify.py" alt="spotify np" width="400" />](https://open.spotify.com/user/1xqvh6o24vsr0q5474clizhfo)
+
 <h3 align="left">socials:</h3>
 <p align="left">
 <a href="https://twitter.com/vacrtino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vacrtino" height="30" width="40" /></a>
