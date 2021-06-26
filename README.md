@@ -1,7 +1,8 @@
 ### hey
 ![ ALt text](madswave.gif)
 
-##spotify now playing
+## spotify now playing
+
 [<img src="https://spotify-np-val.vercel.app/api/spotify.py" alt="spotify np" width="400" />](https://open.spotify.com/user/1xqvh6o24vsr0q5474clizhfo)
 
 <h3 align="left">socials:</h3>
